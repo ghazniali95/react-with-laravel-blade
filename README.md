@@ -41,10 +41,12 @@ To create a React component that accepts arguments, use the following Artisan co
     php artisan create:reactComponent [ComponentName] --arg=arg1,arg2,arg3,...
 
 This will generate a component that can receive arguments.
-Building Components
+
+# Building Components
 
 For the build process, you need to add all the created components to the vite.config.js file in your project's root directory.
-Future Improvements
+
+# Future Improvements
 
 We are actively working on improving this package to enhance your development experience. Your feedback and contributions are valuable to us!
 Contact
