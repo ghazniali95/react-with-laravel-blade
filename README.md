@@ -57,4 +57,4 @@ Contact
 Feel free to contribute to the project or report any issues on the GitHub repository.
 
 
-This `README.md` file provides clear and organized information on how to inst
+This `README.md` file provides clear and organized information on how to install and run the package.
