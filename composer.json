@@ -1,7 +1,15 @@
 {
     "name": "ghazniali95/react-with-laravel-blade",
-    "description": "React component now work in blade templates",
-    "type": "library",
+    "description": "React component laravel vite helper.",
+     "keywords": [
+        "react-laravel",
+        "laravel-vite-helper",
+        "react-helper-with-laravel",
+        "react-components-laravel-helper",
+        "laravel",
+        "react"
+    ],
+    "type": "laravel-package",
     "autoload": {
         "psr-4": {
             "Ghazniali95\\ReactWithLaravelBlade\\": "src/"
@@ -13,10 +21,9 @@
             "email": "ghazniali95@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
-        "php": "^8.0",
-        "laravel/framework": "^9.0"
+        "php": "^8.0"
     },
     "license": "MIT"
 }
